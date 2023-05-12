@@ -10,6 +10,6 @@ soc-redditHyperlinks-body.tsv	- Network of subreddit-to-subreddit hyperlinks ext
 
 soc-redditHyperlinks-title.tsv -	Network of subreddit-to-subreddit hyperlinks extracted from hyperlinks in the title of the post.
 
-#nb-viewer link:
+# nb-viewer link:
 
 https://nbviewer.org/github/Albert-2002/RedditHyperlinkGraphs/blob/main/GraphProjectCodeBook.ipynb
